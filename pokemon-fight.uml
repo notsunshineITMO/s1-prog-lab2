@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/home/sunsh1ne/itmo/1st-sem/prog-labs/lab2</OriginalElement>
+  <nodes>
+    <node x="732.0" y="692.0">ru.ifmo.se.pokemon.NaturesMadness</node>
+    <node x="113.0" y="1248.5">ru.ifmo.se.pokemon.Charjabug</node>
+    <node x="732.0" y="526.0">ru.ifmo.se.pokemon.EnergyBall</node>
+    <node x="388.0" y="1364.0">ru.ifmo.se.pokemon.ViceGrip</node>
+    <node x="116.0" y="564.0">ru.ifmo.se.pokemon.TapuBulu</node>
+    <node x="-97.0" y="928.5">ru.ifmo.se.pokemon.Main</node>
+    <node x="388.0" y="1057.0">ru.ifmo.se.pokemon.Discharge</node>
+    <node x="420.5" y="916.0">ru.ifmo.se.pokemon.Roost</node>
+    <node x="732.0" y="1595.0">ru.ifmo.se.pokemon.Flamethrower</node>
+    <node x="117.5" y="1479.5">ru.ifmo.se.pokemon.Slowking</node>
+    <node x="388.0" y="1223.0">ru.ifmo.se.pokemon.Facade</node>
+    <node x="420.5" y="1678.0">ru.ifmo.se.pokemon.CalmMind</node>
+    <node x="115.5" y="1633.0">ru.ifmo.se.pokemon.Slowpoke</node>
+    <node x="732.0" y="1454.0">ru.ifmo.se.pokemon.PowerGem</node>
+    <node x="120.5" y="1389.5">ru.ifmo.se.pokemon.Grubbin</node>
+    <node x="763.5" y="385.0">ru.ifmo.se.pokemon.SweetScent</node>
+    <node x="120.5" y="941.5">ru.ifmo.se.pokemon.Vikavolt</node>
+    <node x="419.5" y="1524.5">ru.ifmo.se.pokemon.DreamEater</node>
+    <node x="732.0" y="833.0">ru.ifmo.se.pokemon.FocusBlast</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ru.ifmo.se.pokemon.TapuBulu" target="ru.ifmo.se.pokemon.EnergyBall" relationship="CREATE">
+      <point x="94.5" y="-0.0" />
+      <point x="-162.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.TapuBulu" target="ru.ifmo.se.pokemon.SweetScent" relationship="CREATE">
+      <point x="94.5" y="-0.0" />
+      <point x="540.0" y="594.0" />
+      <point x="540.0" y="440.5" />
+      <point x="-130.5" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Slowpoke" target="ru.ifmo.se.pokemon.CalmMind" relationship="CREATE">
+      <point x="95.0" y="-0.0" />
+      <point x="315.5" y="1663.0" />
+      <point x="315.5" y="1733.5" />
+      <point x="-129.5" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Vikavolt" target="ru.ifmo.se.pokemon.Roost" relationship="CREATE">
+      <point x="90.0" y="-0.0" />
+      <point x="-129.5" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.TapuBulu" target="ru.ifmo.se.pokemon.NaturesMadness" relationship="CREATE">
+      <point x="94.5" y="-0.0" />
+      <point x="540.0" y="594.0" />
+      <point x="540.0" y="747.5" />
+      <point x="-162.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Slowking" target="ru.ifmo.se.pokemon.CalmMind" relationship="CREATE">
+      <point x="93.0" y="-0.0" />
+      <point x="345.5" y="1509.5" />
+      <point x="345.5" y="1733.5" />
+      <point x="-129.5" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Main" target="ru.ifmo.se.pokemon.Slowpoke" relationship="CREATE">
+      <point x="87.5" y="-0.0" />
+      <point x="98.0" y="971.5" />
+      <point x="98.0" y="1663.0" />
+      <point x="-95.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Main" target="ru.ifmo.se.pokemon.Grubbin" relationship="CREATE">
+      <point x="87.5" y="-0.0" />
+      <point x="98.0" y="971.5" />
+      <point x="98.0" y="1419.5" />
+      <point x="-90.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Grubbin" target="ru.ifmo.se.pokemon.Facade" relationship="CREATE">
+      <point x="90.0" y="-0.0" />
+      <point x="338.0" y="1419.5" />
+      <point x="338.0" y="1278.5" />
+      <point x="-162.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Charjabug" target="ru.ifmo.se.pokemon.ViceGrip" relationship="CREATE">
+      <point x="97.5" y="-0.0" />
+      <point x="318.0" y="1278.5" />
+      <point x="318.0" y="1419.5" />
+      <point x="-162.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Slowpoke" target="ru.ifmo.se.pokemon.DreamEater" relationship="CREATE">
+      <point x="95.0" y="-0.0" />
+      <point x="335.5" y="1663.0" />
+      <point x="335.5" y="1580.0" />
+      <point x="-130.5" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Main" target="ru.ifmo.se.pokemon.Slowking" relationship="CREATE">
+      <point x="87.5" y="-0.0" />
+      <point x="98.0" y="971.5" />
+      <point x="98.0" y="1509.5" />
+      <point x="-93.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Slowpoke" target="ru.ifmo.se.pokemon.Flamethrower" relationship="CREATE">
+      <point x="95.0" y="-0.0" />
+      <point x="-162.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Slowking" target="ru.ifmo.se.pokemon.DreamEater" relationship="CREATE">
+      <point x="93.0" y="-0.0" />
+      <point x="355.5" y="1509.5" />
+      <point x="355.5" y="1580.0" />
+      <point x="-130.5" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Grubbin" target="ru.ifmo.se.pokemon.ViceGrip" relationship="CREATE">
+      <point x="90.0" y="-0.0" />
+      <point x="-162.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Vikavolt" target="ru.ifmo.se.pokemon.ViceGrip" relationship="CREATE">
+      <point x="90.0" y="-0.0" />
+      <point x="348.0" y="971.5" />
+      <point x="348.0" y="1419.5" />
+      <point x="-162.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Main" target="ru.ifmo.se.pokemon.Charjabug" relationship="CREATE">
+      <point x="87.5" y="-0.0" />
+      <point x="98.0" y="971.5" />
+      <point x="98.0" y="1278.5" />
+      <point x="-97.5" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Charjabug" target="ru.ifmo.se.pokemon.Facade" relationship="CREATE">
+      <point x="97.5" y="-0.0" />
+      <point x="-162.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Slowking" target="ru.ifmo.se.pokemon.Flamethrower" relationship="CREATE">
+      <point x="93.0" y="-0.0" />
+      <point x="325.5" y="1509.5" />
+      <point x="325.5" y="1804.0" />
+      <point x="689.5" y="1804.0" />
+      <point x="689.5" y="1663.0" />
+      <point x="-162.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Charjabug" target="ru.ifmo.se.pokemon.Discharge" relationship="CREATE">
+      <point x="97.5" y="-0.0" />
+      <point x="328.0" y="1278.5" />
+      <point x="328.0" y="1125.0" />
+      <point x="-162.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.TapuBulu" target="ru.ifmo.se.pokemon.FocusBlast" relationship="CREATE">
+      <point x="94.5" y="-0.0" />
+      <point x="540.0" y="594.0" />
+      <point x="540.0" y="901.0" />
+      <point x="-162.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Vikavolt" target="ru.ifmo.se.pokemon.Discharge" relationship="CREATE">
+      <point x="90.0" y="-0.0" />
+      <point x="368.0" y="971.5" />
+      <point x="368.0" y="1125.0" />
+      <point x="-162.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Main" target="ru.ifmo.se.pokemon.Vikavolt" relationship="CREATE">
+      <point x="87.5" y="-0.0" />
+      <point x="-90.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Main" target="ru.ifmo.se.pokemon.TapuBulu" relationship="CREATE">
+      <point x="87.5" y="-0.0" />
+      <point x="98.0" y="971.5" />
+      <point x="98.0" y="594.0" />
+      <point x="-94.5" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Slowking" target="ru.ifmo.se.pokemon.PowerGem" relationship="CREATE">
+      <point x="93.0" y="-0.0" />
+      <point x="-162.0" y="-0.0" />
+    </edge>
+    <edge source="ru.ifmo.se.pokemon.Vikavolt" target="ru.ifmo.se.pokemon.Facade" relationship="CREATE">
+      <point x="90.0" y="-0.0" />
+      <point x="358.0" y="971.5" />
+      <point x="358.0" y="1278.5" />
+      <point x="-162.0" y="-0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.5983321751216122" showDependencies="true" x="711.7845528455297" y="1106.17131242741" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>protected</VISIBILITY>
+</Diagram>
+
